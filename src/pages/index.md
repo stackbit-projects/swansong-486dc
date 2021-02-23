@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Thinking
+    title: Thinking about the end of your life shouldn't be overwhelming
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
